@@ -157,7 +157,7 @@ const OverviewSize = (props) => {
             <p>{styleChoice}</p>
             <br />
             Size:
-            <p>{currentSize}</p>
+            <p>8</p>
             <br />
             Quantity:
             <p>{countChosen}</p>
